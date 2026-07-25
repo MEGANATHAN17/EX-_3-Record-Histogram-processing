@@ -74,8 +74,10 @@ plt.imshow(Color_image)
 plt.show()
 ```
 # OUTPUT :
-<img width="687" height="392" alt="image" src="https://github.com/user-attachments/assets/9b686d22-2dfd-
-40d7-bd7e-c97fb4b97006" />
+<img width="772" height="387" alt="image" src="https://github.com/user-attachments/assets/7bef3ac4-b739-4162-8302-a79557fb0c23" />
+
+
+# OUTPUT :
 <img width="797" height="511" alt="image" src="https://github.com/user-attachments/assets/e222d87e-d572-4ec4-9bba-d3c807782ba0" />
 
 
